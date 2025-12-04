@@ -1,0 +1,10 @@
+{
+  "errorType": "JSON parsing error",
+  "errorMessage": "Unterminated string starting at: line 11 column 19 (char 4206)",
+  "rules": [
+    "All strings must be properly quoted and escaped",
+    "No trailing commas",
+    "All braces and brackets must be closed",
+    "Return ONLY the JSON object, no explanations"
+  ]
+}
