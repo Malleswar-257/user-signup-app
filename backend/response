@@ -1,0 +1,12 @@
+{
+  "outputSpeech": {
+    "text": "Welcome to the Voice Activated Health Assistant. I can provide you with information on various health topics, offer exercise routines, and even provide you with recipes for healthy eating. What would you like to do today?",
+    "type": "PlainText"
+  },
+  "card": {
+    "content": "Welcome to the Voice Activated Health Assistant. I can provide you with information on various health topics, offer exercise routines, and even provide you with recipes for healthy eating. What would you like to do today?",
+    "title": "Health Assistant",
+    "type": "Simple"
+  },
+  "shouldEndSession": false
+}
