@@ -1,0 +1,9 @@
+{
+  "protocol": "http",
+  "path": "/healthcheck",
+  "port": 80,
+  "interval": 10,
+  "timeout": 5,
+  "unhealthy_threshold": 2,
+  "healthy_threshold": 2
+}
