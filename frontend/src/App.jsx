@@ -1,0 +1,1 @@
+import React from 'react';import Header from './components/Header.jsx';import SignupForm from './components/SignupForm.jsx';function App() { return (<div><Header /><SignupForm /></div>); }export default App
